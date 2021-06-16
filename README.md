@@ -1,19 +1,15 @@
-# Discord-Bot-For-Starters
-This is the tutorial bot :)
+# all-rounder-bot
 
-## HANDLER SYLE
 
-```js
+## Config
 
-module.exports = {
-name: "ping",
-usage: "Nothing rlly",
-ownerOnly: false, 
-cooldown: 5000,
-botPermission: [],
-authorPermission: [],
-aliases: [],
-description: "Nothing",
+```
+
+{
+  "token": "BOT TOKEN",
+  "default_prefix": "PREFIX,
+  "ownerID": "ID DISCORD"
 }
 
 ```
+## 
